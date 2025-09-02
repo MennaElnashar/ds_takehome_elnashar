@@ -4,6 +4,7 @@ This repository contains my submission for the Data Science Take-Home Exercise.
 The project covers exploratory data analysis, late delivery prediction, price anomaly detection, and SQL-based analytics using a real-world style procurement and supply dataset.
 
 📂 Repository Structure
+'''bash
 ds_takehome_full_package_extracted/
 │
 ├── autograde_metrics.py            # Script for automated grading/evaluation
